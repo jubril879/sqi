@@ -1,0 +1,77 @@
+@media (max-width:900px){
+    
+}
+.log{
+    margin: 0;
+}
+.play{
+    filter: grayscale(100%);
+    
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+    margin-top: 0px;
+    border-top: 5px solid blue;
+    width: 250px;
+    padding-left: 30px;
+    line-height: 2.0;
+}
+.goo p{
+    font-size: 18px; 
+    font-weight: 700;
+}
+.take{
+    background-color: rgb(213, 234, 243);
+    border-radius: 20px;
+    margin-top: 150px;
+    box-shadow: 30px 0px 28px #D4EBD9, -30px 0px 28px #D4EBD9;
+}
+.tak{
+    background-color: #EEEFBD;
+    border-radius: 20px;
+    box-shadow: 30px 0px 28px #FFF0EE, -30px 0px 28px #FFF0EE;
+}
+.take h4{
+    font-size: 25px;
+    color: black;
+}
+.take p{
+    font-size: 15px;
+    color: black;
+}
+.taken{
+    background-color: ;
+}
+.love{
+    background-color: #E0D4BF;
+    border-radius: 20px;
+    margin: 40px;
+    box-shadow: 30px 0px 28px #D4EBD9, -30px 0px 28px #D4EBD9;
+}
+.lov{
+    background-color: #DFD5E8;
+    border-radius: 20px;
+    margin-top: 15px;
+    box-shadow: 30px 0px 28px #FFF2F0, -30px 0px 28px #FFF2F0;
+}
+.lov p{
+    font-size: 15px;
+}
+.love h4{
+    font-size: 25px;
+    color: black;
+}
+.love p{
+    font-size: 15px;
+    color: black;
+}
+
+.joo{
+    background-image: url(DSC_9054-scaled\ \(1\).jpg);
+    height: 800px;
+} 
+.dab{
+    border-radius: 20px;
+    margin-top: 15%;
+}
